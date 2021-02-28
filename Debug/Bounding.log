@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(143,309): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(143,144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(150,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(189,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(230,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(231,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(232,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(233,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(234,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(235,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(256,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(265,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(275,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(276,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leokr\Desktop\Bounding_box\Bounding\main.cpp(300,23): warning C4018: '<': signed/unsigned mismatch
+  Bounding.vcxproj -> C:\Users\leokr\Desktop\Bounding_box\Bounding\Debug\Bounding.exe
